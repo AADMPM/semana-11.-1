@@ -1,0 +1,22 @@
+img{height:250px;
+    width: 300px;
+    border:2px, solid black;}
+#Letras {
+	font-size: 3.5em;
+	color:white;
+	font-family: impact;
+}
+
+body{
+	background-color: black;
+}
+
+
+  #wrapper{width: 850px;
+           margin: 0 auto;}         
+
+.container {
+	border: 1px solid white;
+	width: 400px;
+	float:left;
+}
